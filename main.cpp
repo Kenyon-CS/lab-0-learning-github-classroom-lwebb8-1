@@ -1,3 +1,4 @@
+//Lillian Webb Lab 0 August 29, 2024
 #include <algorithm>
 #include <fstream>
 #include <iostream>
@@ -41,7 +42,9 @@ vector<string> findAnagrams(const string &word, const string &filename) {
 
 int main() {
   string word, filename;
-
+  // initialize integer counter
+  int counter = 0;
+  cout << "My Hovercraft is full of eels!" << endl;
   // Get the word from the user
   cout << "Enter a word: ";
   cin >> word;
@@ -60,7 +63,10 @@ int main() {
   } else {
     cout << "Anagrams found for the word '" << word << "':" << endl;
     for (const string &anagram : anagrams) {
-      cout << anagram << endl;
+    //adds number to beginning. 
+      counter++;
+
+      cout << counter << ". " << anagram << endl;
     }
   }
 

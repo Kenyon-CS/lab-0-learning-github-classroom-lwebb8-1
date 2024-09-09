@@ -1,0 +1,48 @@
+My Hovercraft is full of eels!
+Enter a word: crane
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'crane':
+1. ancre
+2. caner
+3. carne
+4. crane
+5. crena
+6. nacre
+7. rance
+
+$ ./main
+My Hovercraft is full of eels!
+Enter a word: house
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'house':
+1. house
+
+$ ./main
+My Hovercraft is full of eels!
+Enter a word: kayak
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'kayak':
+1. yakka
+2. kayak
+
+$ ./main
+My Hovercraft is full of eels!
+Enter a word: wheat
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'wheat':
+1. awhet
+2. wheat
+
+$ ./main
+My Hovercraft is full of eels!
+Enter a word: opportunity
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'opportunity':
+1. opportunity
+
+$ ./main
+My Hovercraft is full of eels!
+Enter a word: level
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'level':
+1. level
